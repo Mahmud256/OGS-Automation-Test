@@ -116,9 +116,9 @@
           "raw": "{\r\n  \"productId\":\"681ccbb8def894959af74ac0\",\r\n  \"email\":\"{{email}}\",\r\n  \"name\":\"Samsung Galaxy Z Fold5\",\r\n  \"brand\":\"Samsung\",\r\n  \"category\":\"smartphone\",\r\n  \"description\":\"Samsung Galaxy Z Fold 5 is a foldable smartphone featuring a 7.6-inch foldable Dynamic AMOLED display, Snapdragon 888 chipset, triple-camera setup, and support for S Pen stylus.\",\r\n  \"photos\":\"https://static-01.daraz.com.bd/p/f3a182339ac46bc4a5992463b26d76cf.jpg_300x0q75.webp\",\r\n  \"price\":\"179999\"\r\n}"
         },
         "url": {
-          "raw": "{{base_url}}/cart",
+          "raw": "https://online-gift-shop-server.vercel.app/cart",
           "host": [
-            "{{base_url}}"
+            "https://online-gift-shop-server.vercel.app"
           ],
           "path": [
             "cart"
@@ -133,9 +133,9 @@
         "method": "GET",
         "header": [],
         "url": {
-          "raw": "{{base_url}}/cart?email=be@gmail.com",
+          "raw": "https://online-gift-shop-server.vercel.app/cart?email=be@gmail.com",
           "host": [
-            "{{base_url}}"
+            "https://online-gift-shop-server.vercel.app"
           ],
           "path": [
             "cart"
@@ -244,9 +244,9 @@
           "raw": "{\r\n    \"productId\": \"{{productId}}\",\r\n    \"email\": \"{{email}}\",\r\n    \"name\": \"{{name}}\",\r\n    \"brand\": \"{{brand}}\",\r\n    \"category\": \"{{category}}\",\r\n    \"description\": \"{{description}}\",\r\n    \"photos\": \"{{photos}}\",\r\n    \"price\": \"{{price}}\"\r\n}"
         },
         "url": {
-          "raw": "{{base_url}}/cart",
+          "raw": "https://online-gift-shop-server.vercel.app/cart",
           "host": [
-            "{{base_url}}"
+            "https://online-gift-shop-server.vercel.app"
           ],
           "path": [
             "cart"
@@ -279,9 +279,9 @@
           "raw": ""
         },
         "url": {
-          "raw": "{{base_url}}/product",
+          "raw": "https://online-gift-shop-server.vercel.app/product",
           "host": [
-            "{{base_url}}"
+            "https://online-gift-shop-server.vercel.app"
           ],
           "path": [
             "product"
@@ -310,9 +310,9 @@
               "raw": ""
             },
             "url": {
-              "raw": "{{base_url}}/product",
+              "raw": "https://online-gift-shop-server.vercel.app/product",
               "host": [
-                "{{base_url}}"
+                "https://online-gift-shop-server.vercel.app"
               ],
               "path": [
                 "product"
@@ -444,9 +444,9 @@
           }
         ],
         "url": {
-          "raw": "{{base_url}}/cart/{{deleteId}}",
+          "raw": "https://online-gift-shop-server.vercel.app/cart/{{deleteId}}",
           "host": [
-            "{{base_url}}"
+            "https://online-gift-shop-server.vercel.app"
           ],
           "path": [
             "cart",
@@ -500,9 +500,9 @@
           "raw": "{\r\n    \"name\": \"ABBC\",\r\n    \"phone\": \"01717034180 \",\r\n    \"city\": \"ccc\",\r\n    \"area\": \"ccc\",\r\n    \"address\": \"ccc\",\r\n    \"email\": \"be@gmail.com\"\r\n}"
         },
         "url": {
-          "raw": "{{base_url}}/location",
+          "raw": "https://online-gift-shop-server.vercel.app/location",
           "host": [
-            "{{base_url}}"
+            "https://online-gift-shop-server.vercel.app"
           ],
           "path": [
             "location"
