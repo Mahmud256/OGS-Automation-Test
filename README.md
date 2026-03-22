@@ -6,14 +6,17 @@
 
 ---
 
-## 📌 Project Overview
+📌 Project Overview
 
-This project focuses on testing an **Online Gift Shop E-commerce Website** through **Manual Testing** and **API Testing (Postman)**.
+This project demonstrates end-to-end Software Quality Assurance (SQA) on an E-commerce platform.
 
-The purpose of this project is to ensure that the application functions correctly, delivers a smooth user experience, and handles backend API requests properly.
+It includes:
 
-Online gift shop platforms typically allow users to browse products, add items to cart, and complete purchases easily.
+✅ Manual Testing (UI + Functional)
+✅ API Testing using Postman
+✅ Automated API Testing using Newman
 
+The goal is to ensure system reliability, detect bugs, and validate API responses.
 ---
 
 ## 🎯 Objectives
